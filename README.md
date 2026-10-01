@@ -61,5 +61,5 @@ PASTE-ENGAGEMENT-PROJECT-LINK-HERE
 
 ## Let's Connect
 
-- LinkedIn: PASTE-YOUR-LINKEDIN-LINK-HERE
-- Email: YOUR-PROFESSIONAL-EMAIL
+- LinkedIn: www.linkedin.com/in/kanyin-orukotan
+- Email: kayodave123@gmail.com

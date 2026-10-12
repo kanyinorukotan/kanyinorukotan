@@ -1,6 +1,6 @@
 # Hi, I'm Kanyin David Orukotan 👋
 
-## Junior HR Data Analyst
+## HR Data Analyst and Data anotation specialist
 
 I am an entry-level data analyst with hands-on experience using Excel,
 Power BI, Power Query, and DAX to clean data, build interactive dashboards,

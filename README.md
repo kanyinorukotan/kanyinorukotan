@@ -31,7 +31,7 @@ products, customers, loyalty membership, and geographic markets.
 
 **Tools:** Excel, PivotTables, PivotCharts, XLOOKUP, slicers and timeline filters
 
-PASTE-COFFEE-PROJECT-LINK-HERE
+
 
 ### HR Analytics Dashboard
 
@@ -40,7 +40,6 @@ attrition, performance, recruitment, compensation, and workforce planning.
 
 **Tools:** Power BI, Power Query, DAX and Excel
 
-PASTE-HR-ANALYTICS-PROJECT-LINK-HERE
 
 ### Employee Engagement Analysis
 
@@ -48,8 +47,6 @@ Analyzed employee survey responses to measure engagement, compare departments
 and roles, identify workplace challenges, and recommend improvements.
 
 **Tools:** Power BI, Power Query, DAX and Excel
-
-PASTE-ENGAGEMENT-PROJECT-LINK-HERE
 
 ## What I Am Currently Learning
 

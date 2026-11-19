@@ -1,89 +1,79 @@
-# Hi, I'm Kanyin David Orukotan 👋
+<div align="center">
 
-**AI Evaluation | AI Red-Teaming | Data Annotation | Data Analytics**
+# Kanyin David Orukotan
 
-I'm an AI evaluation and data quality professional with hands-on experience evaluating AI-generated outputs, testing AI agents for security vulnerabilities, annotating computer vision datasets, and building structured evaluation frameworks.
+**Data & AI Quality Analyst** · AI Evaluation · AI Red-Teaming · Data Annotation · Analytics
 
-I focus on identifying model errors, testing system behavior, validating outputs against evidence, and documenting findings with clear, reproducible reasoning. I also bring experience in HR data validation, record auditing, and analytical reporting.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanyin-orukotan)
+[![Email](https://img.shields.io/badge/Email-kayodave123%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kayodave123@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-kanyinorukotan-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kanyinorukotan)
 
-## 🛠️ Skills & Tools
+</div>
 
-**AI Evaluation & Quality Assurance**
-- LLM output evaluation and model comparison
-- Rubric development and benchmark task design
-- Instruction adherence and accuracy assessment
-- Evidence-based scoring and uncertainty evaluation
-- Quality assurance and error analysis
+---
 
-**AI Red-Teaming & Security Testing**
-- AI agent vulnerability testing
-- Prompt injection and insecure tool design
-- Code injection and insecure deserialization
-- TOCTOU race-condition testing
-- Root cause analysis and vulnerability reporting
-- OWASP LLM Top 10 and MITRE ATLAS
+I work where data quality meets AI reliability: evaluating model output against evidence, red-teaming agentic systems for security failures, annotating vision datasets, and building the dashboards and reports that make the findings usable.
 
-**Computer Vision & Data Annotation**
-- Image annotation and object detection
-- Bounding boxes and object classification
-- Missed-detection and annotation quality review
-- Occlusion and low-quality image assessment
-- CVAT, Label Studio, Roboflow, and Ultralytics YOLO
+My method is the same in every engagement — define the rubric, gather the evidence, score it reproducibly, and write the finding so that someone else can verify it.
 
-**Data Analytics**
-- Microsoft Excel
-- Microsoft Power BI
-- SQL
-- Data cleaning and validation
-- Data visualization and dashboard development
-- HR analytics and business reporting
+## Core areas
 
-## 🚀 Featured Projects
+| Area | What I do | Evidence |
+| :--- | :--- | :--- |
+| **AI evaluation & QA** | Rubric and prompt-set design, instruction adherence, uncertainty handling, comparative model scoring | [LLM image-understanding evaluation](https://github.com/kanyinorukotan/ai-photo-data-annotation.) |
+| **AI red-teaming** | Agent vulnerability testing, prompt and code injection, insecure tool design, TOCTOU, root-cause reporting | [ARKX AI agent security CTF](https://github.com/kanyinorukotan/arkx-ai-security-ctf) |
+| **Data annotation** | Bounding boxes, object classification, hierarchical action labelling, annotation QA and error review | [Robot video annotation](https://github.com/kanyinorukotan/robot-video-annotation) |
+| **Analytics & reporting** | Validation and auditing, SQL analysis, Power BI and Excel dashboards, HR and commercial reporting | [HR analytics](https://github.com/kanyinorukotan/hr-analytics-power-bi-dashboard-) |
 
-### 🔐 AI Agent Security Testing — ARKX CTF
+## Selected work
 
-Completed all six levels of an AI agent security challenge, identifying and documenting vulnerabilities involving code injection, insecure deserialization, data exfiltration, multi-agent privilege escalation, and TOCTOU race conditions.
+| Project | Summary | Stack |
+| :--- | :--- | :--- |
+| [**ARKX AI Agent Security CTF**](https://github.com/kanyinorukotan/arkx-ai-security-ctf) | All six levels solved. Documented and reproduced code injection, insecure deserialization, out-of-band exfiltration, multi-agent privilege escalation, and a TOCTOU race condition, with each finding mapped to a known framework. | OWASP LLM Top 10 · MITRE ATLAS |
+| [**Robot Video Annotation**](https://github.com/kanyinorukotan/robot-video-annotation) | Frame-accurate hierarchical L1/L2/L3 labelling of bimanual robot-manipulation video, including a self-audit of gripper-state and arm errors and a validator-triage workflow. | Structured annotation · QA audit |
+| [**LLM Image-Understanding Evaluation**](https://github.com/kanyinorukotan/ai-photo-data-annotation.) | Evaluation workbook comparing three models across 25 prompts on five road-scene images, scored with a weighted rubric for accuracy, completeness, clarity, and uncertainty. | Excel · Rubric design · Comparative analysis |
+| [**Vision Data Annotation**](https://github.com/kanyinorukotan/ai-photo-data-annotation.) | 350+ road and traffic images annotated for vehicles, pedestrians, and signals, with model detections and confidence scores checked against human labels under occlusion and poor lighting. | CVAT · Label Studio · Roboflow · YOLO |
+| [**HR Attrition Analysis**](https://github.com/kanyinorukotan/HR-Employee-Attrition-Analysis) | SQL analysis identifying the workforce segments most closely associated with higher turnover, written for a non-technical audience. | MySQL · Excel |
+| [**Coffee Sales Performance**](https://github.com/kanyinorukotan/coffee-sales-performance-dashboard) | Interactive dashboard covering revenue trends, product performance, loyalty membership, and geographic markets, 2019–2022. | Excel · PivotTables · XLOOKUP · Slicers |
 
-**Focus:** Vulnerability reproduction, root cause analysis, exploit documentation, and security framework mapping.
+## Toolkit
 
-### 🤖 LLM Image-Understanding Evaluation Framework
+**Analysis & reporting**
 
-Developed a structured evaluation workbook covering 25 prompts across five road-scene images to compare three AI models.
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Data validation](https://img.shields.io/badge/Data_validation-4B5563?style=flat-square)
+![Dashboarding](https://img.shields.io/badge/Dashboarding-4B5563?style=flat-square)
 
-Designed a weighted scoring rubric covering accuracy, completeness, clarity, and uncertainty handling to support consistent, evidence-based model evaluation.
+**Evaluation & security**
 
-**Tools:** Excel, structured prompts, weighted rubrics, comparative analysis.
+![LLM evaluation](https://img.shields.io/badge/LLM_evaluation-1F2937?style=flat-square)
+![Rubric design](https://img.shields.io/badge/Rubric_design-1F2937?style=flat-square)
+![Prompt injection](https://img.shields.io/badge/Prompt_injection-1F2937?style=flat-square)
+![OWASP LLM Top 10](https://img.shields.io/badge/OWASP_LLM_Top_10-1F2937?style=flat-square)
+![MITRE ATLAS](https://img.shields.io/badge/MITRE_ATLAS-1F2937?style=flat-square)
 
-### 🚗 Computer Vision Data Annotation
+**Annotation & computer vision**
 
-Annotated 350+ road and traffic-scene images, labeling vehicles, pedestrians, traffic lights, and other visible objects. Compared model detections and confidence scores against human annotations and reviewed errors under challenging visual conditions.
+![CVAT](https://img.shields.io/badge/CVAT-3B4252?style=flat-square)
+![Label Studio](https://img.shields.io/badge/Label_Studio-3B4252?style=flat-square)
+![Roboflow](https://img.shields.io/badge/Roboflow-3B4252?style=flat-square)
+![Ultralytics YOLO](https://img.shields.io/badge/Ultralytics_YOLO-3B4252?style=flat-square)
 
-**Tools:** CVAT, Label Studio, Roboflow, Ultralytics YOLO.
+## Currently developing
 
-### 📊 HR Data Validation & Analytics
-
-Applied data validation, record auditing, and discrepancy checks to HR and payroll records. Interested in using data analytics to improve workforce reporting, employee insights, and evidence-based decision-making.
-
-**Tools:** Excel, Power BI, data validation, reporting.
-
-### ☕ Coffee Sales Performance Analysis
-
-Analyzed coffee sales data to explore revenue trends, product performance, customer behavior, loyalty membership, and geographic markets.
-
-**Tools:** Excel, PivotTables, PivotCharts, XLOOKUP, slicers, and timeline filters.
-
-## 📚 Currently Developing
-
-- SQL for data analysis
-- Advanced Excel and Power BI
+- SQL for analysis at depth — window functions, joins, and query design
+- Advanced Power BI modelling and DAX
 - LLM evaluation and benchmark design
-- AI agent security testing
-- Data storytelling and analytical reporting
+- AI agent security testing and framework mapping
+- Data storytelling and analytical writing
 
-## 🤝 Let's Connect
+## Contact
+
+Open to roles and contracts in **AI evaluation, AI red-teaming, data annotation quality assurance, and data analytics**.
 
 - **LinkedIn:** [linkedin.com/in/kanyin-orukotan](https://www.linkedin.com/in/kanyin-orukotan)
-- **Email:** kayodave123@gmail.com
-- **GitHub:** [github.com/kanyinorukotan](https://github.com/kanyinorukotan)
+- **Email:** [kayodave123@gmail.com](mailto:kayodave123@gmail.com)
 
-I'm interested in opportunities involving AI evaluation, red-teaming, data annotation, quality assurance, and data analytics.
+<sub>Every project above is documented so that the method and the evidence can be reviewed, not just the conclusion.</sub>

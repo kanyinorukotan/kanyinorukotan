@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 # Kanyin David Orukotan
 
@@ -20,19 +20,20 @@ My method is the same in every engagement — define the rubric, gather the evid
 
 | Area | What I do | Evidence |
 | :--- | :--- | :--- |
-| **AI evaluation & QA** | Rubric and prompt-set design, instruction adherence, uncertainty handling, comparative model scoring | [LLM image-understanding evaluation](https://github.com/kanyinorukotan/ai-photo-data-annotation.) |
+| **AI evaluation & QA** | Rubric and prompt-set design, instruction adherence, uncertainty handling, comparative model scoring | [LLM image-understanding evaluation](https://github.com/kanyinorukotan/ai-photo-data-annotation) |
 | **AI red-teaming** | Agent vulnerability testing, prompt and code injection, insecure tool design, TOCTOU, root-cause reporting | [ARKX AI agent security CTF](https://github.com/kanyinorukotan/arkx-ai-security-ctf) |
 | **Data annotation** | Bounding boxes, object classification, hierarchical action labelling, annotation QA and error review | [Robot video annotation](https://github.com/kanyinorukotan/robot-video-annotation) |
-| **Analytics & reporting** | Validation and auditing, SQL analysis, Power BI and Excel dashboards, HR and commercial reporting | [HR analytics](https://github.com/kanyinorukotan/hr-analytics-power-bi-dashboard-) |
+| **Analytics & reporting** | Validation and auditing, SQL analysis, Power BI and Excel dashboards, HR and commercial reporting | [HR analytics](https://github.com/kanyinorukotan/hr-analytics-power-bi-dashboard) |
 
 ## Selected work
 
 | Project | Summary | Stack |
 | :--- | :--- | :--- |
 | [**ARKX AI Agent Security CTF**](https://github.com/kanyinorukotan/arkx-ai-security-ctf) | All six levels solved. Documented and reproduced code injection, insecure deserialization, out-of-band exfiltration, multi-agent privilege escalation, and a TOCTOU race condition, with each finding mapped to a known framework. | OWASP LLM Top 10 · MITRE ATLAS |
+| [**AI Red-Team Portfolio**](https://github.com/kanyinorukotan/ai-red-team-portfolio) | Independent prompt-injection assessments written up with documented methodology, reproduction steps, and evidence. | LLM security · Test design |
 | [**Robot Video Annotation**](https://github.com/kanyinorukotan/robot-video-annotation) | Frame-accurate hierarchical L1/L2/L3 labelling of bimanual robot-manipulation video, including a self-audit of gripper-state and arm errors and a validator-triage workflow. | Structured annotation · QA audit |
-| [**LLM Image-Understanding Evaluation**](https://github.com/kanyinorukotan/ai-photo-data-annotation.) | Evaluation workbook comparing three models across 25 prompts on five road-scene images, scored with a weighted rubric for accuracy, completeness, clarity, and uncertainty. | Excel · Rubric design · Comparative analysis |
-| [**Vision Data Annotation**](https://github.com/kanyinorukotan/ai-photo-data-annotation.) | 350+ road and traffic images annotated for vehicles, pedestrians, and signals, with model detections and confidence scores checked against human labels under occlusion and poor lighting. | CVAT · Label Studio · Roboflow · YOLO |
+| [**LLM Image-Understanding Evaluation**](https://github.com/kanyinorukotan/ai-photo-data-annotation) | Evaluation workbook comparing three models across 25 prompts on five road-scene images, scored with a weighted rubric for accuracy, completeness, clarity, and uncertainty. | Excel · Rubric design · Comparative analysis |
+| [**Vision Data Annotation**](https://github.com/kanyinorukotan/ai-photo-data-annotation) | 350+ road and traffic images annotated for vehicles, pedestrians, and signals, with model detections and confidence scores checked against human labels under occlusion and poor lighting. | CVAT · Label Studio · Roboflow · YOLO |
 | [**HR Attrition Analysis**](https://github.com/kanyinorukotan/HR-Employee-Attrition-Analysis) | SQL analysis identifying the workforce segments most closely associated with higher turnover, written for a non-technical audience. | MySQL · Excel |
 | [**Coffee Sales Performance**](https://github.com/kanyinorukotan/coffee-sales-performance-dashboard) | Interactive dashboard covering revenue trends, product performance, loyalty membership, and geographic markets, 2019–2022. | Excel · PivotTables · XLOOKUP · Slicers |
 
